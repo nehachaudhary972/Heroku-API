@@ -1,0 +1,88 @@
+const Phones = [
+  {
+    id: 1,
+    src: "https://s3no.cashify.in/cashify/product/img/xxhdpi/36ea82c3-6d6a.jpg?p=es3sq&s=es",
+    title: "Apple iPhone 14 - Refurbished",
+    logo: "https://s3no.cashify.in/estore/658f05797b2d4354a604fe75c5c0499a.webp?p=default&s=lg",
+    discount: "₹22,999 OFF",
+    rating: 4.8,
+    percentOff: 54,
+    currentPrice: "36,499",
+    originalPrice: "79,900",
+    specialPrice: "35,181",
+    offerName: "GOLD",
+  },
+  {
+    id: 2,
+    src: "https://s3no.cashify.in/cashify/product/img/xxhdpi/57426a66-b6ae.jpg?p=es3sq&s=es",
+    title: "Samsung Galaxy Z Fold5 - Refurbished",
+    logo: "https://s3no.cashify.in/estore/658f05797b2d4354a604fe75c5c0499a.webp?p=default&s=lg",
+
+    discount: "₹12,999 OFF",
+    rating: 4.8,
+    percentOff: 54,
+    currentPrice: "36,499",
+    originalPrice: "79,900",
+    specialPrice: "35,181",
+    offerName: "GOLD",
+  },
+  {
+    id: 3,
+    src: "https://s3no.cashify.in/cashify/product/img/xxhdpi/49733b41-913f.jpg?p=es3sq&s=es",
+    title: "Samsung Galaxy Z Flip6 5G - Refurbished",
+    logo: "https://s3no.cashify.in/estore/658f05797b2d4354a604fe75c5c0499a.webp?p=default&s=lg",
+
+    discount: "₹39,999 OFF",
+    rating: 4.8,
+    percentOff: 54,
+    currentPrice: "36,499",
+    originalPrice: "79,900",
+    specialPrice: "35,181",
+    offerName: "GOLD",
+  },
+  {
+    id: 4,
+    src: "https://s3no.cashify.in/cashify/store/product/b76626bc7b614938877326440968c1aa.png?p=es3sq&s=e",
+    title:
+      "Apple MacBook Pro 2021 A2485 (Apple M1 Pro Chip 16 Inch)- Refurbished",
+    logo: "https://s3no.cashify.in/estore/658f05797b2d4354a604fe75c5c0499a.webp?p=default&s=lg",
+
+    discount: "₹19,999 OFF",
+    rating: 4.8,
+    percentOff: 54,
+    currentPrice: "36,499",
+    originalPrice: "79,900",
+    specialPrice: "35,181",
+    offerName: "GOLD",
+  },
+  {
+    id: 5,
+    src: "https://s3no.cashify.in/cashify/product/img/xxhdpi/04d9a962-daae.jpg?p=es3sq&s=es",
+    title: "Sony Playstation 4 Slim Gaming Console (PS4)- Refurbished",
+    logo: "https://s3no.cashify.in/estore/658f05797b2d4354a604fe75c5c0499a.webp?p=default&s=lg",
+
+    discount: "₹8,999 OFF",
+    rating: 4.8,
+    percentOff: 54,
+    currentPrice: "36,499",
+    originalPrice: "79,900",
+    specialPrice: "35,181",
+    offerName: "GOLD",
+  },
+  {
+    id: 6,
+    src: "https://s3no.cashify.in/cashify/store/product/b76626bc7b614938877326440968c1aa.png?p=es3sq&s=es",
+    title:
+      "Apple MacBook Air Mid 2017 A1466 (Intel Core i5 13.3 Inch)- Refurbished",
+    logo: "https://s3no.cashify.in/estore/658f05797b2d4354a604fe75c5c0499a.webp?p=default&s=lg",
+
+    discount: "₹10,999 OFF",
+    rating: 4.8,
+    percentOff: 54,
+    currentPrice: "36,499",
+    originalPrice: "79,900",
+    specialPrice: "35,181",
+    offerName: "GOLD",
+  },
+];
+export default Phones;
